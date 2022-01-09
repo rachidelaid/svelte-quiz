@@ -1,0 +1,43 @@
+body {
+  color: #333;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+}
+
+.card {
+  padding: 50px;
+  border-radius: 10px;
+  border: 2px solid #d3d3d3;
+  box-shadow: 5px 5px 5px 0px rgba(211, 211, 211, 0.75);
+}
+
+.loading {
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  margin: 50px;
+}
+
+button,
+.btn {
+  padding: 10px;
+  color: #fff;
+  background-color: #23837f;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 5px 0;
+}
+
+button:hover,
+.btn:hover {
+  background-color: #0e3d3c;
+}
+
+button:active,
+.btn:active {
+  transform: scale(0.9);
+}
