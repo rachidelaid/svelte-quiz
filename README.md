@@ -5,6 +5,8 @@ it is a quiz app using [svelte](https://svelte.dev/) and a free trivia API from 
 
 ## Live Link
 
+[https://quiz-app-svelte.netlify.app/](https://quiz-app-svelte.netlify.app/)
+
 ## Get started
 
 Install the dependencies...
